@@ -1,0 +1,11 @@
+.VisualizerController {
+    background-color: #f9a700;
+    margin-bottom : 10px;
+    color: white;
+    display: block;
+    font-family: 'Spline Sans', sans-serif;
+    padding: 16px;
+    /* border-bottom: 5px solid black; */
+    box-shadow: 4px 5px 6px 0px grey;
+    border-radius: 6px;
+}
