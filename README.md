@@ -13,9 +13,10 @@
 - Quick Sort
 
 ### Features
-- Time and Space complexcity analysis.
+- Time and Space complexity analysis.
+- Number of Bar and colour selection.
 - Speed of visualization selection.
-- Bar colour selection.
+
 
 #### Experience the Visualization from here :
 https://namannr9.github.io/Sorting-Algorithm-Visualizer/
